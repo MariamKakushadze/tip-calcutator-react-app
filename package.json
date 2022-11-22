@@ -1,7 +1,7 @@
 {
   "name": "splitter",
   "version": "0.1.0",
-  "homepage": "https://{MariamKakushadze}.github.io/{tip-calcutator-react-app}",
+  "homepage": "https://MariamKakushadze.github.io/tip-calcutator-react-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
